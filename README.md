@@ -1,6 +1,6 @@
 # Jason-s-repo
 
-the raibow 
+the raibow
 
 
 many colours
@@ -8,6 +8,9 @@ or colors
 or culurs
 another color/our
 coolio
-Candy 
+Candy
+Lots of food
 
 more colours of the unicorn
+
+
